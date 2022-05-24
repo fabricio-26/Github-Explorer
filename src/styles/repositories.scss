@@ -1,31 +1,40 @@
-section.repository-list{
+section.repository-list {
   margin: 40px;
 
-  h1{
+  h1 {
     margin-bottom: 16px;
+    text-align: center;
+    color: rgb(108, 95, 95);
   }
 
-  ul{
+  ul {
     list-style: none;
+    width: 50%;
+    margin: 0 auto;
 
-    li{
-      & + li{
-        margin-top: 20px;
+    li {
+      margin-top: 20px;
+      border: 1px solid rgb(255, 255, 255);
+      border-radius: 5px;
+      padding: 10px;
+
+      strong{
+        color: rgb(95, 97, 96);
       }
 
-      p{
+      p {
         font-size: 14px;
-        color: #444;
+        color: rgb(67, 65, 65);
         margin-top: 8px;
       }
 
-      a{
+      a {
         display: inline-block;
         margin-top: 16px;
+        font-weight: bold;
         text-decoration: none;
         color: #8257e6;
       }
     }
   }
 }
-
