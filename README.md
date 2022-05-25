@@ -1,9 +1,7 @@
 # Github-Explorer with React (Development version)
 
-<!-- ## Prints de tela
-![print1](https://****.jpg)
-<br>
-![print2](https://========.jpg) -->
+## Prints de tela
+![print1](https://github.com/fabricio-26/Github-Explorer/blob/main/public/assets/images/review.png)
 
 ### Github Explorer using::
 - React App;
